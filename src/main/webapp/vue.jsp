@@ -12,5 +12,6 @@
 </head>
 <body>
     <h1>Modification 1 - Cette examen est hyper difficile pour moi</h1>
+    <h3>Modification 2 - C'est une blague. L'examen me force a travailler avec Git et GitHub et c'est bon!!</h3>
 </body>
 </html>
